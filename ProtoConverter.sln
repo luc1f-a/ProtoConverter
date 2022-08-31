@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoConverter", "src\ProtoConverter\ProtoConverter.csproj", "{6F6CE654-1F69-4920-8653-E1676F1EC249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoConverter.UnitTests", "tests\ProtoConverter.UnitTests\ProtoConverter.UnitTests.csproj", "{5B3F9BB9-E0C1-452E-93C8-74AFD0807F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoConverter.App", "src\ProtoConverter.App\ProtoConverter.App.csproj", "{7A60F1D5-E3CF-4F34-824C-05111BB89D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6CE654-1F69-4920-8653-E1676F1EC249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6CE654-1F69-4920-8653-E1676F1EC249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6CE654-1F69-4920-8653-E1676F1EC249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6CE654-1F69-4920-8653-E1676F1EC249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3F9BB9-E0C1-452E-93C8-74AFD0807F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3F9BB9-E0C1-452E-93C8-74AFD0807F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3F9BB9-E0C1-452E-93C8-74AFD0807F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3F9BB9-E0C1-452E-93C8-74AFD0807F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A60F1D5-E3CF-4F34-824C-05111BB89D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A60F1D5-E3CF-4F34-824C-05111BB89D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A60F1D5-E3CF-4F34-824C-05111BB89D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A60F1D5-E3CF-4F34-824C-05111BB89D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
